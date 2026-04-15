@@ -1,6 +1,0 @@
-{
-  "name": "AutoReach: Sheet-to-Email & LinkedIn",
-  "description": "Automate personalized outreach by fetching data from Google Sheets and sending emails and LinkedIn messages.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
